@@ -7,3 +7,4 @@ README
 | ------------ | ----------------------------------- | 
 | Deployed     | http://pets-world.site:8080/        |
 | Swagger      | http://pets-world.site:8080/swagger |
+| Test user    | admin:admin                         |
